@@ -1,0 +1,118 @@
+{
+  "timestamp": "2025-05-15T08:23:00.913760Z",
+  "total_spots": 11,
+  "occupied": 6,
+  "free": 5,
+  "spots": [
+    {
+      "id": 1,
+      "bbox": [
+        1248,
+        262,
+        1279,
+        287
+      ],
+      "occupied": false
+    },
+    {
+      "id": 2,
+      "bbox": [
+        1157,
+        239,
+        1224,
+        287
+      ],
+      "occupied": false
+    },
+    {
+      "id": 3,
+      "bbox": [
+        1070,
+        227,
+        1138,
+        286
+      ],
+      "occupied": false
+    },
+    {
+      "id": 4,
+      "bbox": [
+        885,
+        190,
+        969,
+        287
+      ],
+      "occupied": true
+    },
+    {
+      "id": 5,
+      "bbox": [
+        310,
+        73,
+        411,
+        157
+      ],
+      "occupied": true
+    },
+    {
+      "id": 6,
+      "bbox": [
+        373,
+        86,
+        466,
+        176
+      ],
+      "occupied": true
+    },
+    {
+      "id": 7,
+      "bbox": [
+        115,
+        226,
+        208,
+        286
+      ],
+      "occupied": true
+    },
+    {
+      "id": 8,
+      "bbox": [
+        797,
+        175,
+        878,
+        283
+      ],
+      "occupied": false
+    },
+    {
+      "id": 9,
+      "bbox": [
+        440,
+        92,
+        534,
+        190
+      ],
+      "occupied": true
+    },
+    {
+      "id": 10,
+      "bbox": [
+        490,
+        122,
+        585,
+        222
+      ],
+      "occupied": false
+    },
+    {
+      "id": 13,
+      "bbox": [
+        629,
+        145,
+        725,
+        259
+      ],
+      "occupied": true
+    }
+  ]
+}
